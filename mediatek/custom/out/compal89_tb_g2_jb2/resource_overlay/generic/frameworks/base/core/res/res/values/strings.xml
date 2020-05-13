@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <add-resource type="string" name="storage_external_sd_card" />
+    <string name="storage_external_sd_card">External SD</string>
+</resources>
+
